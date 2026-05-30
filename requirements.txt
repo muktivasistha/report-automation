@@ -1,0 +1,7 @@
+sqlalchemy>=2.0
+psycopg2-binary
+pandas>=2.0
+premailer
+matplotlib
+jinja2
+python-dotenv

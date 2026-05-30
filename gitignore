@@ -1,0 +1,19 @@
+# Secrets — never commit these
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated output files
+email_preview.html
+email_html.html
+*.html
+
+# OS files
+.DS_Store
+Thumbs.db
