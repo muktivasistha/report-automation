@@ -8,7 +8,7 @@ An end-to-end Python pipeline that queries business data, computes performance m
 - Computes **Week-over-Week (WoW)** performance by buy source, sell source, and traffic route
 - Computes **Year-over-Year (YoY)** monthly profit trends across 8 years
 - Applies business logic (partner profit share adjustments, estimated month-end projections)
-- Generates **styled HTML tables** with conditional color highlights (green/red for WoW changes, gold for best YoY month)
+- Generates **styled HTML tables** with conditional color highlights
 - Sends the report via **Gmail SMTP** with a dynamic subject line
 
 ## Tech Stack
